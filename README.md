@@ -1,0 +1,2 @@
+# Moegirlpedia_Photrans_semi-auto
+萌娘百科半自动日语歌词注音方法
